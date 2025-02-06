@@ -1,0 +1,9 @@
+langchain
+langchain-community
+sentence-transformers
+requests
+transformers
+python-dotenv
+chroma
+ipywidgets
+ipython
