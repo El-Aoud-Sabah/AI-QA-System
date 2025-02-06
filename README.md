@@ -54,8 +54,11 @@ Système de questions/réponses alimenté par l'IA qui permet l'ingestion de fic
 
 📁 project_root/
 │-- Q&Asystem.ipynb  # Code principal
+
 │-- requirements.txt  # Dépendances
+
 │-- .env  # Clé API (non inclus dans Git)
+
 │-- README.md  # Documentation
 
 
