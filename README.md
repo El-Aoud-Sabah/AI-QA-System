@@ -45,7 +45,7 @@ Système de questions/réponses alimenté par l'IA qui permet l'ingestion de fic
 1. **Exécuter le script**
    jupyter notebook Q&Asystem.ipynb
    
-3. **Suivre les instructions**
+2. **Suivre les instructions**
    - Entrer le chemin du fichier PDF
    - Poser une question en lien avec le document
    - Taper `changer` pour analyser un autre fichier
@@ -53,6 +53,7 @@ Système de questions/réponses alimenté par l'IA qui permet l'ingestion de fic
 ## Structure du projet
 
 📁 project_root/
+
 │-- Q&Asystem.ipynb  # Code principal
 
 │-- requirements.txt  # Dépendances
