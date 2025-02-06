@@ -4,6 +4,7 @@ sentence-transformers
 requests
 transformers
 python-dotenv
-chroma
 ipywidgets
 ipython
+chromadb
+pypdf
