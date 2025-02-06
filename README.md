@@ -41,7 +41,7 @@ Système de questions/réponses alimenté par l'IA qui permet l'ingestion de fic
      API_KEY='VOTRE_CLE_API'
      ```
 
-## 🚀 Utilisation
+##  Utilisation
 1. **Exécuter le script**
    jupyter notebook Q&Asystem.ipynb
    
@@ -50,7 +50,7 @@ Système de questions/réponses alimenté par l'IA qui permet l'ingestion de fic
    - Poser une question en lien avec le document
    - Taper `changer` pour analyser un autre fichier
 
-## 📂 Structure du projet
+## Structure du projet
 
 📁 project_root/
 │-- Q&Asystem.ipynb  # Code principal
